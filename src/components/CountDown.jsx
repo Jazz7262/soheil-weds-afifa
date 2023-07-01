@@ -33,7 +33,6 @@ function CountDown() {
                 <div className="main">
                     <div className="row">
                         <div className="col-lg-5 bg-container">
-                            
                             <div className="bg-color">
                                 <div className="title">
                                     <div className="content">

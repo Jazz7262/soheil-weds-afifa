@@ -43,7 +43,7 @@ function Couple() {
                                     data-target="#carouselIndicators"
                                     data-slide-to="5"
                                 ></li>
-                                <li
+                                 <li
                                     data-target="#carouselIndicators"
                                     data-slide-to="6"
                                 ></li>
@@ -57,7 +57,7 @@ function Couple() {
                                     <div className="img-wrapper">
                                         <img
                                             className="couple-img"
-                                            src="../assets/images/groom.png"
+                                            src="../assets/images/groom1.jpg"
                                             alt="couple_img"
                                         />
                                     </div>
@@ -66,7 +66,7 @@ function Couple() {
                                     <div className="img-wrapper">
                                         <img
                                             className="couple-img"
-                                            src="../assets/images/groom.png"
+                                            src="../assets/images/groom2.jpg"
                                             alt="couple_img"
                                         />
                                     </div>
@@ -75,11 +75,38 @@ function Couple() {
                                     <div className="img-wrapper">
                                         <img
                                             className="couple-img"
-                                            src="../assets/images/groom.png"
+                                            src="../assets/images/groom3.jpg"
                                             alt="couple_img"
                                         />
                                     </div>
                                 </div>
+                                {/* <div className="carousel-item">
+                                    <div className="img-wrapper">
+                                        <img
+                                            className="couple-img"
+                                            src="../assets/images/groom4.jpg"
+                                            alt="couple_img"
+                                        />
+                                    </div>
+                                </div>
+                                <div className="carousel-item">
+                                    <div className="img-wrapper">
+                                        <img
+                                            className="couple-img"
+                                            src="../assets/images/groom5.jpg"
+                                            alt="couple_img"
+                                        />
+                                    </div>
+                                </div>
+                                <div className="carousel-item">
+                                    <div className="img-wrapper">
+                                        <img
+                                            className="couple-img"
+                                            src="../assets/images/groom6.jpeg"
+                                            alt="couple_img"
+                                        />
+                                    </div>
+                                </div> */}
                             </div>
                             <a
                                 className="carousel-control-prev"
@@ -131,16 +158,6 @@ function Couple() {
                                 <br /> Gopa Gowda Nagar, */}
                                 Yemmiganur.
                             </p>
-                            {/* <p className="mt-1 mt-lg-2">
-                                Grand S/O Janab{" "}
-                                <strong>M. Mustafa Sahab(Late),</strong>{" "}
-                                Sievella.
-                            </p> */}
-                            {/* <p className="mt-1 mt-lg-2">
-                                Retd. Head Master,
-                                <br /> Gopa Gowda Nagar,
-                                <br /> Belgal Road, Bellari.
-                            </p> */}
                         </div>
                     </div>
                     <div
@@ -244,7 +261,7 @@ function Couple() {
                                 Professsion: <strong>SG Teacher, Adoni.</strong>
                             </p> */}
                             <p className="mt-2 mt-lg-3">
-                                D/O Mrs. & Mr.
+                                D/O Mrs. & Mr.{" "}
                                 <strong>Karvan Shaikh Mehboob Basha,</strong>
                             </p>
                             {/* <p className="mt-1 mt-lg-2">

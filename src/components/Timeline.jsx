@@ -42,9 +42,9 @@ function Timeline() {
                             <div className="col-lg-6 left" data-aos="fade-down">
                                 <h1>Shukrana</h1>
                                 <p>
-                                    On Saturday, 27<sup>th</sup> June, 2023.
+                                    On Saturday, 27<sup>th</sup> July, 2023.
                                     <br />
-                                    06<sup>th</sup> Zil-Qa'ida, 1444 Hijri,
+                                    06<sup>th</sup> Zil-Hajjah, 1444 Hijri,
                                     <br />
                                     Time: 09:00 PM.
                                 </p>
@@ -67,9 +67,9 @@ function Timeline() {
                             >
                                 <h1>Nikaah</h1>
                                 <p>
-                                    On Sunday, 28<sup>th</sup> June, 2023,
+                                    On Sunday, 28<sup>th</sup> July, 2023,
                                     <br />
-                                    07<sup>th</sup> Zil-Qa'ida, 1444 Hijri,
+                                    07<sup>th</sup> Zil-Hajjah, 1444 Hijri,
                                     <br />
                                     Time: 01:00 PM.
                                 </p>
@@ -95,9 +95,9 @@ function Timeline() {
                                 <h1>Valima</h1>
 
                                 <p>
-                                    On Tuesday, 30<sup>th</sup> June, 2023,
+                                    On Tuesday, 30<sup>th</sup> July, 2023,
                                     <br />
-                                    09<sup>th</sup> Zil-Qa'ida, 1444 Hijri,
+                                    09<sup>th</sup> Zil-Hajjah, 1444 Hijri,
                                     <br />
                                     Time: 02:00 PM.
                                 </p>
